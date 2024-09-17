@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navinsivakumar07&show_icons=true&locale=en&layout=compact" alt="navinsivakumar07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navinsivakumar07&show_icons=true&locale=en" alt="navinsivakumar07" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navinsivakumar07&" alt="navinsivakumar07" /></p>
